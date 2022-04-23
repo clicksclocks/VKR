@@ -1,0 +1,12 @@
+[submodule "Horyzen/deps/spdlog"]
+	path = Horyzen/deps/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "Horyzen/deps/glfw"]
+	path = Horyzen/deps/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "Horyzen/deps/ImGui"]
+	path = Horyzen/deps/ImGui
+	url = https://github.com/ocornut/imgui.git
+[submodule "Horyzen/deps/ImGuiNodeEditor"]
+	path = Horyzen/deps/ImGuiNodeEditor
+	url = https://github.com/thedmd/imgui-node-editor.git

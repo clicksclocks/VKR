@@ -1,0 +1,146 @@
+{"otherData": {},"traceEvents":[
+{
+   "cat":"function",
+   "dur":280749,
+   "name":"void __cdecl Horyzen::WindowsGLFWWindow::Init(void)",
+   "ph":"X",
+   "pid":0,
+   "tid":1311124655,
+   "ts":29649423300
+}
+,{
+   "cat":"function",
+   "dur":281121,
+   "name":"__cdecl Horyzen::Application::Application(void)",
+   "ph":"X",
+   "pid":0,
+   "tid":1311124655,
+   "ts":29649423286
+}
+,{
+   "cat":"function",
+   "dur":27,
+   "name":"__cdecl Horyzen::OpenGLVertexBuffer::OpenGLVertexBuffer(float *,unsigned int)",
+   "ph":"X",
+   "pid":0,
+   "tid":1311124655,
+   "ts":29649705602
+}
+,{
+   "cat":"function",
+   "dur":372,
+   "name":"__cdecl Horyzen::OpenGLIndexBuffer::OpenGLIndexBuffer(unsigned int *,unsigned int)",
+   "ph":"X",
+   "pid":0,
+   "tid":1311124655,
+   "ts":29649705640
+}
+,{
+   "cat":"function",
+   "dur":14,
+   "name":"__cdecl Horyzen::OpenGLVertexBuffer::OpenGLVertexBuffer(float *,unsigned int)",
+   "ph":"X",
+   "pid":0,
+   "tid":1311124655,
+   "ts":29649709609
+}
+,{
+   "cat":"function",
+   "dur":19,
+   "name":"__cdecl Horyzen::OpenGLIndexBuffer::OpenGLIndexBuffer(unsigned int *,unsigned int)",
+   "ph":"X",
+   "pid":0,
+   "tid":1311124655,
+   "ts":29649709651
+}
+,{
+   "cat":"function",
+   "dur":25,
+   "name":"__cdecl Horyzen::OpenGLIndexBuffer::OpenGLIndexBuffer(unsigned int *,unsigned int)",
+   "ph":"X",
+   "pid":0,
+   "tid":1311124655,
+   "ts":29649709851
+}
+,{
+   "cat":"function",
+   "dur":49,
+   "name":"__cdecl Horyzen::OpenGLIndexBuffer::OpenGLIndexBuffer(unsigned int *,unsigned int)",
+   "ph":"X",
+   "pid":0,
+   "tid":1311124655,
+   "ts":29649709995
+}
+,{
+   "cat":"function",
+   "dur":190,
+   "name":"__cdecl Horyzen::OpenGLIndexBuffer::OpenGLIndexBuffer(unsigned int *,unsigned int)",
+   "ph":"X",
+   "pid":0,
+   "tid":1311124655,
+   "ts":29649710502
+}
+,{
+   "cat":"function",
+   "dur":1567,
+   "name":"void __cdecl Horyzen::Geo::GObject::UpdateCurve(void)",
+   "ph":"X",
+   "pid":0,
+   "tid":1311124655,
+   "ts":29649711035
+}
+,{
+   "cat":"function",
+   "dur":59,
+   "name":"__cdecl Horyzen::OpenGLIndexBuffer::OpenGLIndexBuffer(unsigned int *,unsigned int)",
+   "ph":"X",
+   "pid":0,
+   "tid":1311124655,
+   "ts":29649713462
+}
+,{
+   "cat":"function",
+   "dur":4397,
+   "name":"__cdecl Horyzen::OpenGLIndexBuffer::OpenGLIndexBuffer(unsigned int *,unsigned int)",
+   "ph":"X",
+   "pid":0,
+   "tid":1311124655,
+   "ts":29649713960
+}
+,{
+   "cat":"function",
+   "dur":204,
+   "name":"__cdecl Horyzen::OpenGLIndexBuffer::OpenGLIndexBuffer(unsigned int *,unsigned int)",
+   "ph":"X",
+   "pid":0,
+   "tid":1311124655,
+   "ts":29649718904
+}
+,{
+   "cat":"function",
+   "dur":9311,
+   "name":"void __cdecl Horyzen::Geo::GObject::UpdateSurface(void)",
+   "ph":"X",
+   "pid":0,
+   "tid":1311124655,
+   "ts":29649719408
+}
+,{
+   "cat":"function",
+   "dur":35,
+   "name":"__cdecl Horyzen::OpenGLIndexBuffer::OpenGLIndexBuffer(unsigned int *,unsigned int)",
+   "ph":"X",
+   "pid":0,
+   "tid":1311124655,
+   "ts":29649728975
+}
+,{
+   "cat":"function",
+   "dur":23427,
+   "name":"void __cdecl AppLayer::OnAttach(void)",
+   "ph":"X",
+   "pid":0,
+   "tid":1311124655,
+   "ts":29649705599
+}
+]}
